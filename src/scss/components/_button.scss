@@ -10,7 +10,7 @@
         color: $color-white;
         background-color: $color-black-0;
         padding: 1.5rem 4rem;
-        border: 1px solid $color-black-0;
+        border: 2px solid $color-black-0;
         border-radius: 10rem;
         box-shadow: 0 1rem 2rem rgba($color-black, .17);
         transition: all .2s;
@@ -56,10 +56,12 @@
 
         &:link,
         &:visited {
-            opacity: .7;
+            opacity: .9;
             color: $color-white;
-            border: 1px solid $color-white;
+            border: 3px solid $color-white;
             background-color: transparent;
+            font-size: x-large;
+            font-weight: bolder;
         }
     }
 
