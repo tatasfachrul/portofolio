@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nisarhassan12/portfolio) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10bb8b71-a487-4b3c-a5a8-c6980d7d568e/deploy-status)](https://app.netlify.com/sites/tatasfachrul/deploys)
 
 # Portfolio
 
@@ -8,12 +8,6 @@
 ![image][screenshot]
 
 This repo contains the code for a portfolio site that has a rich user-experience, is performant, and accessible. The website is built using HTML, SCSS, vanilla JavaScript, and it doesn't use any CSS or JavaScript libraries or have any framework dependencies. Everyone is welcome to contribute or use it as a template for their portfolio. Please give me (this repo) credit for the theme design.
-
-#### Online one-click setup for Contributing
-
-Contribute to the portfolio, using a fully featured online development environment; cloned repo, pre-installed dependencies, running web server.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
 ## 🚀 Getting Started
 
@@ -41,7 +35,7 @@ npm run prod
 
 This script will create the production build that contains the site code, which is fast and optimized and minified for production.
 
-[site]: https://nisar.surge.sh
-[screenshot]: https://user-images.githubusercontent.com/46004116/76204785-dfb3dd80-621a-11ea-9990-0aa1a6e3c1b6.png
+[site]: http://tatas.tech
+[screenshot]: ./src/meta.jpg
 [node]: https://nodejs.org/en/download/
 [local]: http://localhost:1234
